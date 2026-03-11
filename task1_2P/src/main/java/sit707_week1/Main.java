@@ -12,7 +12,7 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 
-		int choice = 4;
+		int choice = 3;
 
 		switch (choice) {
 		case 1:
